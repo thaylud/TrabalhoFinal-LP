@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1593886524 source:c:\users\caiom\onedrive\Área de trabalho\facul\lp\teste1\banco\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593892559 source:c:\users\renato\downloads\trabalholp-14db9a504705c056e9aef7cb6a9b5aadfdee1ff6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
